@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/wismaclento/bc52dc70-8406-4d97-802b-7dea2986f9e6/bc017348-e144-4cb4-b3bc-cf8f2d95e116/_apis/work/boardbadge/319c235a-8150-4b9b-a4d5-e1f35dda6551)](https://dev.azure.com/wismaclento/bc52dc70-8406-4d97-802b-7dea2986f9e6/_boards/board/t/bc017348-e144-4cb4-b3bc-cf8f2d95e116/Microsoft.RequirementCategory)
 
 # Contributing
 
